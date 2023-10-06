@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayanth911
 - 👀 I’m interested in programming, problem solving, Business strategies.
 - 🌱 I’m currently learning web development
-- - 💞️ I’m looking to collaborate on Android Development 
+- -  I’m looking to collaborate on Android Development 
 - 📫 U can reach me with my mail :: jay9112001@gmail.com
 - 
 
